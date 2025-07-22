@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clement! <br/><a href = "https://github.com/Klemzs"> Programmer, </a> <a href="https://www.linkedin.com/in/clement-odeh-00449a172"> Backend Web Developer </a>  </h1>
+<h1>Hi, I'm Clement! <br/><a href = "https://github.com/Klemzs"> Programmer, </a> <a href="https://www.linkedin.com/in/clement-odeh-00449a172"> Backend Developer </a>  </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
