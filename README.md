@@ -7,7 +7,7 @@
 
 <h2>👨‍🎓 Certifications </h2>
 
-- [Professional Foundation with ALX]()
+- [Professional Foundation with ALX](https://github.com/Klemzs/Klemzs/blob/main/89-professional-foundations-certificate-clement-odeh.png)
 
 <h2> 🤳 Connect with me:</h2>
 
